@@ -1,0 +1,12 @@
+vim
+git
+cmake
+clang
+blender
+gimp
+zsh
+htop
+apt-transport-https
+code
+steam
+
