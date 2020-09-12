@@ -1,0 +1,19 @@
+vim
+git
+cmake
+clang
+blender
+gimp
+zsh
+htop
+apt-transport-https
+blueman
+curl
+python
+python3-pip
+ppa:lutris-team/lutris
+lutris
+libcap2-bin
+wireshark
+snap discord
+snap code --classic
