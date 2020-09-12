@@ -17,4 +17,4 @@ OPTIONS:
 ```
 
 Probably would have been easier to do this in python, but python is one of the packages
-that this installs so ¯\_(ツ)_/¯
+that this installs so ¯\\_(ツ)_/¯
