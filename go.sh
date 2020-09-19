@@ -103,3 +103,15 @@ if [ "$dry_run_flag" = false ] ; then
   sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
   chsh -s $(which zsh)
 fi
+
+# Download some mouse cursors that I like! 
+echo Download SpaceK cursors!
+if [ "$dry_run_flag" = false ] ; then
+  tar xzf ./resources/SpaceKCursors.tar.gz -C /usr/share/icons
+fi
+
+# Download the Jetbrains font! 
+echo Download the Jetbrains font!
+if [ "$dry_run_flag" = false ] ; then
+  wget https://download.jetbrains.com/fonts/JetBrainsMono-2.001.zip?_ga=2.234557790.1795287856.1600537666-526302441.1600537666
+fi

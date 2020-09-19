@@ -17,3 +17,5 @@ libcap2-bin
 wireshark
 snap discord
 snap code --classic
+gnome-tweak-tool
+font-manager
