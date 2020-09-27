@@ -19,3 +19,21 @@ snap discord
 snap code --classic
 gnome-tweak-tool
 font-manager
+build-essential
+ruby-dev
+ruby
+doxygen
+libglm-dev
+xorg-dev
+libxcb-dri3-0
+libxcb-present0
+libpciaccess0
+libpng-dev
+libxcb-keysyms1-dev
+libxcb-dri3-dev
+libx11-dev
+libmirclient-dev
+libwayland-dev
+libxrandr-dev
+libglfw3-dev
+xorg-dev
